@@ -1,1 +1,2 @@
-Smooth speed change function
+Smooth speed change function.
+Addition message.
